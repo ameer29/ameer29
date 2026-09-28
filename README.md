@@ -7,40 +7,111 @@
   <a href="mailto:ameer.batcha@u.nus.edu"><img src="https://img.shields.io/badge/Email-ameer.batcha%40u.nus.edu-111?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-I'm a **CEMS Master in International Management** candidate at **NUS Business School** (with ESADE and Aalto), working where **business, data, product and human behaviour** meet. I'm looking for roles in **product management, data and analytics, and strategy consulting**.
+I'm a **CEMS Master in International Management** candidate at **NUS Business School**, with exchange semesters at ESADE and Aalto. I grew up in Dubai, studied and worked in India, and now study in Singapore and Europe. My path runs from **marketing** to **operations**, then **data research**, then **product management with generative AI**, with **psychology** alongside. I'm looking for roles in **product management, data and analytics, and strategy consulting**.
 
-### 🧭 Journey
-| When | What |
+> 🌐 For the visual version with case studies and live prototypes, see **[ameer29.github.io](https://ameer29.github.io)**. This page is the complete record, year by year.
+
+---
+
+## 📅 The full record: 2018 → 2027
+
+### 2018 – 2021 · 📚 BBA in Marketing, Amity Global Business School (Bangalore)
+**First Class Distinction.** I chose a BBA to understand how a business works from the core; by my final year, marketing was what I wanted to do.
+
+- **2019 · Digital Marketing Training, Internshala** (6 weeks, 1 Jun – 13 Jul): blogging and web analytics, SEO, email, inbound and content marketing, search/display/video ads, mobile and social media marketing, ORM and automation.
+- **2020 · Research project: consumer preference for Netflix** (Year 2; guides: Prof. Shanti J and Mr. Nihal Ahmed)
+  - Designed a 17-question survey and collected **92 responses**; analysed satisfaction, switching, discovery and loyalty.
+  - Findings: **81%** satisfied overall; content breadth (80%) and quality (76%) rated highest, pricing lowest (27%); Amazon Prime the main fallback (56%); **92%** use recommendations to choose what to watch.
+- **2021 · Dissertation: the business model of Swiggy** (guide: Prof. S. Karthikeyan)
+  - Mapped Swiggy's **Business Model Canvas** and its funding and acquisition history from 2014 to 2020, and ran a 20-question customer survey (**93 responses**) during the pandemic; presented in a 12-slide deck.
+  - Findings: 70% said app discounts shape ordering most; 84% named food quality as their top concern.
+  - Recommended an IPO on NSE/BSE (Swiggy listed in Nov 2024) and keeping logistics at the core of the model.
+  - **Revisited in 2026:** recalculated every figure from the raw exports, added an **NPS of +48**, and coded 90 open-text answers. In their own words, customers choose on speed and discounts; food quality is the baseline, not the differentiator. → [repo](https://github.com/ameer29/consumer-research-netflix-swiggy)
+
+### Nov 2021 – Jan 2023 · ⚙️ ITILITE Technologies (Bengaluru)
+*SaaS for business travel and expense management, founded in 2017. It raised a $29M Series C in April 2022, while I was there.* Three roles in 15 months, from the front line to analytics:
+
+| Role | Dates |
 |---|---|
-| 2026 – 2027 | 🎓 **NUS Business School**: MSc in Management + CEMS MIM · Singapore · Barcelona · Helsinki |
-| 2025 – 2026 | 🤖 **BITSoM**: Product Management with Generative & Agentic AI |
-| 2024 – 2025 | 📊 **Forbes Advisor**: Associate → **Senior Associate, Data Research** (promoted in 15 months) · 🏆 *Rockstar Rookie award* |
-| 2023 | 🔁 Left my job to study data analytics full-time (**AnalytixLabs**, Certified Data Analyst) |
-| 2021 – 2023 | ⚙️ **ITILITE** (travel & expense SaaS): Customer Relations → Financial Oversight → **Workforce Management Analyst** |
-| 2024 – 2026 | 🧠 **MSc Psychology** (Jain University) + clinical psychology training internship (9.3/10) |
-| 2018 – 2021 | 📚 **BBA in Marketing**, Amity Global Business School · First Class Distinction |
+| Customer Relations Executive | Nov 2021 – Feb 2022 |
+| Reconfirmation · Financial Oversight | Mar 2022 – May 2022 |
+| **Workforce Management Analyst** | Jun 2022 – Jan 2023 |
 
-### 🚀 Featured work
-| Project | What it shows | |
-|---|---|---|
-| [**Swasthya Sahayak**](https://github.com/ameer29/swasthya-sahayak) | AI product design, success metrics, live prototype | [Case study](https://ameer29.github.io/swasthya-sahayak.html) |
-| [**Zalora pricing**](https://github.com/ameer29/zalora-pricing-analytics) | Regression demand model + price optimisation (Python) | [Case study](https://ameer29.github.io/zalora-pricing.html) |
-| [**Adidas sales analytics**](https://github.com/ameer29/adidas-sales-analytics) | Tableau dashboards + A/B test design | [Case study](https://ameer29.github.io/adidas-analytics.html) |
-| [**Temu in Africa**](https://github.com/ameer29/temu-africa-strategy) | Emerging-markets strategy diagnosis | [Case study](https://ameer29.github.io/temu-africa.html) |
-| [**Netflix & Swiggy research**](https://github.com/ameer29/consumer-research-netflix-swiggy) | Survey design, NPS, open-text coding | [Write-up](https://ameer29.github.io/bba-research.html) |
+- Built **real-time dashboards tracking 5+ operational KPIs** for senior management.
+- Found and fixed recurring workflow bottlenecks, reducing service delays.
+- Worked with product and engineering to resolve **15+ UI/UX issues** on the platform.
+- Built cost, delivery and service-impact analyses across **3 core operational functions** to inform senior stakeholders.
+- Handled customer queries end to end, then financial process accuracy and compliance, before moving into analytics.
 
-### 🧰 Toolkit
+### 2023 · 🔁 Career switch: full-time data analytics
+Daily work with data at ITILITE showed me how much decisions depend on it. With no technical background, I couldn't learn it properly alongside a job, so in **January 2023 I resigned to study full-time** and rebuild from the basics.
+- **AnalytixLabs** (Apr – Dec 2023): **Certified Data Analyst**, Term 1: Excel, SQL and Power BI (certificate issued Oct 2024). Also studied Python for data analysis and data visualisation.
+
+### Jan 2024 – Dec 2025 · 📊 Forbes Advisor (Chennai)
+*A global personal-finance advice platform.*
+
+| Role | Dates |
+|---|---|
+| Associate, Data Research | Jan 2024 – Mar 2025 |
+| **Senior Associate, Data Research** (promoted) | Apr 2025 – Dec 2025 |
+
+- 🏆 **Rockstar Rookie award** (Oct 2024) for collaboration, innovation, leadership and excellence in data and research.
+- Led data research across **insurance, credit cards, loans** and other personal-finance verticals, sourcing and validating the data behind published content.
+- **Standardised data validation workflows** for 15+ quarterly projects, improving data accuracy by **35%**.
+- Cut reporting turnaround by **25%** by coordinating editors, analysts and engineers with clear ownership and follow-ups.
+- Led a cross-functional team of 4, bringing bottleneck resolution down from **two weeks to 2–3 days**.
+- **Knowledge Lead for Datahive**, an AI-powered research and content intelligence platform: improved platform accuracy by **20%**.
+- Mentored new joiners, ran process training, reviewed junior researchers' work, and wrote and maintained SOPs.
+
+### 2024 – 2026 · 🧠 MSc Psychology, Jain University (online, alongside full-time work)
+Focus on motivation, performance and human behaviour, which shapes how I think about users, customers and teams.
+- **Jul – Aug 2026 · Clinical Psychology Training-Based Internship, Socially Souled**: 240 hours, **graded 9.3/10**. Covered clinical assessment (Mental Status Examination), case-history intake, risk assessment, psychopathology (mood, anxiety, OCD and related disorders), therapeutic approaches (CBT, DBT, humanistic, behavioural) and clinical ethics, through case-study analysis, supervised exercises and a viva.
+
+### Jul 2025 – Jan 2026 · 🤖 Product Management with Generative & Agentic AI, BITS School of Management (BITSoM)
+Six modules, 45 sessions → [module-by-module page](https://ameer29.github.io/bitsom-product-management.html)
+1. **Product Thinking & Opportunity Discovery:** strategy, market scanning, ideation, propositions, feasibility, platforms
+2. **Design & MVP:** design thinking, personas and journeys, prioritisation, prototyping, UX/UI, tech selection, release
+3. **Building with Agentic AI:** prompt engineering, RAG, agent frameworks, tool use and multimodal agents, LLM prototyping, no/low-code builders, LLMOps, responsible AI
+4. **Project Management & Agile:** Scrum, sprint planning, roadmaps and backlogs, Jira, stakeholder alignment, ethics
+5. **Go-To-Market:** marketing strategy, branding, 7P, digital marketing, pricing, sales and distribution, customer service
+6. **Data, Metrics & Decision Making:** market research, regression, product metrics, digital metrics, CLV, A/B testing
+
+**Capstone · Swasthya Sahayak** (team of 4, Aug 2025 – Feb 2026): a voice-first, multilingual health assistant on WhatsApp for underserved communities in India, with two clickable prototypes. **My part:** the AI design (a 5-step agent flow with firm boundaries: no diagnosis, no prescriptions, always a path to a human), the success-metrics framework, the WhatsApp-first idea and the executive summary. I presented the closing section; the panel singled out the problem approach and the WhatsApp idea. → [repo](https://github.com/ameer29/swasthya-sahayak) · [try it](https://project-swasthya-sahayak.lovable.app/)
+
+### Jan 2026 – Jul 2027 · 🎓 NUS Business School: MSc in Management + CEMS Master in International Management
+Singapore, with exchange semesters at **ESADE (Barcelona)** and **Aalto (Helsinki)**.
+- **Zalora pricing** (BMS5503 Pricing Analytics, **grade 4/5**): a regression demand model on 2,633 product-week records. Holding the price at **S$49.90** instead of marking down still clears stock and earns about **77% more profit**. → [repo with Python script](https://github.com/ameer29/zalora-pricing-analytics)
+- **Temu in Africa** (BMS5120 Innovation & Strategies for Emerging Markets): my section was the diagnosis of why a low-price, China-to-door model can't last in Africa (copyable value proposition, the wrong delivery system, regulatory exposure), feeding the team's "Africa OS" recommendation. → [repo](https://github.com/ameer29/temu-africa-strategy)
+- **Adidas sales analytics** (BMS5504 Marketing Analytics): I built the **Tableau dashboards** and led the analysis (region vs margin, products, retailers, channels, seasonality), and designed an **A/B testing plan** to validate the strategy before scaling. → [repo](https://github.com/ameer29/adidas-sales-analytics)
+- **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business.
+
+### 2026 · 🤝 Community
+- **Volunteer Mentor, PEER Community Programme** (MENDAKI / Yaseen MENDAKI Initiative, Singapore): mentoring secondary school students through skills-building sessions on personal development and goal-setting.
+
+### 2027 · 🎯 Next
+Graduating from NUS–CEMS, and looking for roles in **product management, data and analytics, and strategy consulting**.
+
+---
+
+## 🧰 Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Lovable](https://img.shields.io/badge/Prototyping-Lovable-ff6b6b?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Lovable](https://img.shields.io/badge/Prototyping-Lovable-ff6b6b?style=flat-square)
 
-**Product:** PRDs · Jobs-to-be-Done · MoSCoW / RICE · success metrics · A/B testing · Agile / Scrum
-**Research & strategy:** survey design · regression · Business Model Canvas · Blue Ocean · market entry
+- **Data & AI:** Python (pandas, NumPy, Matplotlib, scikit-learn), SQL, Excel (regression, Solver), Tableau, Power BI, Google Gemini
+- **Product:** PRDs, Jobs-to-be-Done, Value Proposition Canvas, MoSCoW / RICE, success metrics, A/B testing, Agile / Scrum, Jira
+- **Research & strategy:** survey design, regression, Business Model Canvas, Blue Ocean / Four Actions, market entry, stakeholder advisory
+- **Languages:** English · Tamil · Hindi · Urdu · Spanish (elementary)
 
-### 🌍 Languages
-English · Tamil · Hindi · Urdu · Spanish (elementary)
+## 📜 Certifications
+| Certification | Issuer | Year |
+|---|---|---|
+| Product Management with Generative & Agentic AI | BITS School of Management | 2026 |
+| Clinical Psychology Training-Based Internship (9.3/10) | Socially Souled | 2026 |
+| Certified Data Analyst (Term 1: Excel, SQL & Power BI) | AnalytixLabs | 2024 |
+| Digital Marketing Training | Internshala | 2019 |
