@@ -92,11 +92,12 @@ First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
 - **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business. → [try the Gem](https://gemini.google.com/gem/1l8_N3Y0SHgqTZ3ZpKxvScDwe0r7myGmn?usp=sharing)
 - 🤝 **Volunteer Mentor, [PEER Community Programme](https://www.mendakiclub.org.sg/peer-community-programme)** (MENDAKI Club · Yayasan MENDAKI, Singapore; also my MSc Psychology field placement)
   - PEER (Positive Engagement through Experiential Relationships) is a 6-month, 12-session programme. It pairs **90+ volunteer mentors and organisers** with **60+ mentees aged 11–16**, with 2 mentors for every 3 mentees, and is built on the **5Cs of Positive Youth Development** (Competence, Confidence, Connection, Character, Contribution).
-  - **Completed the full Feb – Aug 2026 cycle:** all 12 sessions, from mentor onboarding and mock rounds on 7 Feb to the closing session in August. Sessions covered in depth in my placement report (written in May):
+  - **Completed the full Feb – Aug 2026 cycle:** all 12 sessions, from mentor onboarding and mock rounds on 7 Feb to the closing session in August. I was **one of two group leads** in a squad of three mentees. Sessions covered in depth in my placement report (written at the end of April):
     - Orientation with reflection journals.
     - A **Ramadan food-and-rations outreach** to families in need.
     - A two-session theme event, *Building Trust and Teamwork Through Creative Expression* (drawing icebreakers, cooperative board games and shared squad art).
-  - **What changed:** my mentees went from guarded in Session 1 to starting conversations themselves by Session 4. I applied rapport-building, developmental and group-dynamics concepts from clinical psychology.
+  - **Rest of the season (May – Aug):** two squad outings (23 May and 4 July), career and life-skills sessions, a second community session and the closing on 1 August. Every session opened with a check-in: one moment that made you happy in the past week.
+  - **What changed:** my mentees went from guarded in Session 1 to starting conversations themselves by Session 4, and by the second half of the season were fully involved and opening up about what was worrying them. I applied rapport-building, developmental and group-dynamics concepts from clinical psychology.
 - 🧭 **NUS applicant circle** (informal, from Mar 2026): when applicants started asking me to help strengthen their NUS profiles, I brought four of them together and met them weekly on profiles, essays and interview preparation, drawing on my own two applications. Two of the four have since secured places at NUS.
 
 ### Jul – Aug 2026 · 🩺 Clinical Psychology Training-Based Internship, Socially Souled
