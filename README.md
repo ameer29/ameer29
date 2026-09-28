@@ -27,6 +27,7 @@ I'm a **CEMS Master in International Management** candidate at **NUS Business Sc
   - Findings: 70% said app discounts shape ordering most; 84% named food quality as their top concern.
   - Recommended an IPO on NSE/BSE (Swiggy listed in Nov 2024) and keeping logistics at the core of the model.
   - **Revisited in 2026:** recalculated every figure from the raw exports, added an **NPS of +48**, and coded 90 open-text answers. In their own words, customers choose on speed and discounts; food quality is the baseline, not the differentiator. → [repo](https://github.com/ameer29/consumer-research-netflix-swiggy)
+- **2021 · Applied to the NUS MSc in Management + CEMS MIM:** reached the final round, but wasn't selected. The gap was professional experience: I had no jobs or internships to show. So I spent the next four years in two jobs (ITILITE, then Forbes Advisor), with a year of full-time data-analytics study in between, reapplied in 2025, and received the offer.
 
 ### Nov 2021 – Jan 2023 · ⚙️ ITILITE Technologies (Bengaluru)
 *SaaS for business travel and expense management, founded in 2017. It raised a $29M Series C in April 2022, while I was there.* Three roles in 15 months, from the front line to analytics:
@@ -45,7 +46,7 @@ I'm a **CEMS Master in International Management** candidate at **NUS Business Sc
 - **Reconfirmation · Financial Oversight:** checked bookings against invoices, and handled refunds and reconciliations.
 - **Customer Relations Executive:** handled **30+ calls a day**, plus chat, email and escalations, on bookings, cancellations, refunds and travel policy.
 
-### 2023 · 🔁 Career switch: full-time data analytics
+### 2023 · 📊 Studying data analytics full-time (AnalytixLabs)
 Daily work with data at ITILITE showed me how much decisions depend on it. With no technical background, I couldn't learn it properly alongside a job, so in **January 2023 I resigned to study full-time** and rebuild from the basics.
 - **AnalytixLabs** (Apr – Dec 2023): **Certified Data Analyst**, Term 1: Excel, SQL and Power BI (certificate issued Oct 2024).
 - **Python track: 8 notebooks** in pandas, Seaborn and SciPy. They run from Python basics through retail, credit-card, insurance-claims (fraud flag and hypothesis tests), sales-visualisation and hypothesis-testing case studies to an **end-to-end e-commerce marketing capstone** (8-table merge, acquisition and retention, segmentation, payments, ratings, delivery). Each comes with a candid "what I'd fix now" review → [analytixlabs-python-case-studies](https://github.com/ameer29/analytixlabs-python-case-studies)
@@ -91,11 +92,12 @@ First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
 - **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business. → [try the Gem](https://gemini.google.com/gem/1l8_N3Y0SHgqTZ3ZpKxvScDwe0r7myGmn?usp=sharing)
 - 🤝 **Volunteer Mentor, [PEER Community Programme](https://www.mendakiclub.org.sg/peer-community-programme)** (MENDAKI Club · Yayasan MENDAKI, Singapore; also my MSc Psychology field placement)
   - PEER (Positive Engagement through Experiential Relationships) is a 6-month, 12-session programme. It pairs **90+ volunteer mentors and organisers** with **60+ mentees aged 11–16**, with 2 mentors for every 3 mentees, and is built on the **5Cs of Positive Youth Development** (Competence, Confidence, Connection, Character, Contribution).
-  - **My sessions** (after mentor onboarding and mock rounds on 7 Feb 2026):
+  - **Completed the full Feb – Aug 2026 cycle:** all 12 sessions, from mentor onboarding and mock rounds on 7 Feb to the closing session in August. Sessions covered in depth in my placement report (written in May):
     - Orientation with reflection journals.
     - A **Ramadan food-and-rations outreach** to families in need.
     - A two-session theme event, *Building Trust and Teamwork Through Creative Expression* (drawing icebreakers, cooperative board games and shared squad art).
   - **What changed:** my mentees went from guarded in Session 1 to starting conversations themselves by Session 4. I applied rapport-building, developmental and group-dynamics concepts from clinical psychology.
+- 🧭 **NUS applicant circle** (informal, from Mar 2026): when applicants started asking me to help strengthen their NUS profiles, I brought four of them together and met them weekly on profiles, essays and interview preparation, drawing on my own two applications. Two of the four have since secured places at NUS.
 
 ### Jul – Aug 2026 · 🩺 Clinical Psychology Training-Based Internship, Socially Souled
 **240 hours · graded 9.3/10** (93/100 across attendance, participation, class activities, a viva and assignments).
