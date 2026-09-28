@@ -38,7 +38,7 @@ I'm a **CEMS Master in International Management** candidate at **NUS Business Sc
 | Reconfirmation · Financial Oversight | Mar 2022 – May 2022 |
 | **Workforce Management Analyst** | Jun 2022 – Jan 2023 |
 
-- 🏆 **ITILITE Value Champion** award.
+- 🏆 **ITILITE Value Champion**: a certificate of appreciation from the founders for upholding the ITILITE core values.
 - **Workforce Management Analyst:**
   - Built the operations dashboards used directly by the **Head of Operations and the founding team** for staffing and service decisions. They tracked 5+ KPIs, including response time, SLA adherence, backlog, and staffing against query volume.
   - Ran cost, delivery and service-impact analyses across **3 core operational functions**, and fixed recurring workflow bottlenecks.
@@ -49,7 +49,7 @@ I'm a **CEMS Master in International Management** candidate at **NUS Business Sc
 ### 2023 · 📊 Studying data analytics full-time (AnalytixLabs)
 Daily work with data at ITILITE showed me how much decisions depend on it. With no technical background, I couldn't learn it properly alongside a job, so in **January 2023 I resigned to study full-time** and rebuild from the basics.
 - **AnalytixLabs** (Apr – Dec 2023): **Certified Data Analyst**, Term 1: Excel, SQL and Power BI (certificate issued Oct 2024).
-- **Python track: 8 notebooks** in pandas, Seaborn and SciPy. They run from Python basics through retail, credit-card, insurance-claims (fraud flag and hypothesis tests), sales-visualisation and hypothesis-testing case studies to an **end-to-end e-commerce marketing capstone** (8-table merge, acquisition and retention, segmentation, payments, ratings, delivery). Each comes with a candid "what I'd fix now" review → [analytixlabs-python-case-studies](https://github.com/ameer29/analytixlabs-python-case-studies)
+- **Python track: 3 projects published so far** in pandas, Seaborn and SciPy: a retail case study and a sales-visualisation study (each with a candid "what I'd fix now" review), plus the supply-chain capstone below. More are being added → [analytixlabs-python-case-studies](https://github.com/ameer29/analytixlabs-python-case-studies)
 - **Capstone 1 · Retail customer analysis (SQL → Excel → Power BI):** SQL Server cleaning and 15 business queries, Excel pivots and three Pareto analyses (80% of revenue from 3 cities), and a 3-page interactive Power BI dashboard → [retail-customer-analysis-sql-powerbi](https://github.com/ameer29/retail-customer-analysis-sql-powerbi)
 - **Capstone 2 · Supply chain & inventory (Python):** 180,519 orders; found that 57% of deliveries were late and First Class shipping was late on every order, with an Excel dashboard and deck → [supply-chain-inventory-analysis](https://github.com/ameer29/supply-chain-inventory-analysis)
 
@@ -61,7 +61,7 @@ Daily work with data at ITILITE showed me how much decisions depend on it. With 
 | Associate, Data Research | Jan 2024 – Mar 2025 |
 | **Senior Associate, Data Research** (promoted) | Apr 2025 – Dec 2025 |
 
-- 🏆 **Rockstar Rookie award** (Oct 2024) for collaboration, innovation, leadership and excellence in data and research.
+- 🏆 **Rockstar Rookie award** (Forbes Advisor Hall of Fame Awards, July 2024) "for outstanding talent, collaboration, innovation, and initiative as a new team member".
 - Led data research across **insurance, credit cards, loans** and other personal-finance verticals, sourcing and validating the data behind published content.
 - **Standardised data validation workflows** for 15+ quarterly projects, improving data accuracy by **35%**.
 - Cut reporting turnaround by **25%** by coordinating editors, analysts and engineers with clear ownership and follow-ups.
@@ -145,3 +145,5 @@ Courses include Global Strategy, Data Analytics for Global Management and **Crea
 | Clinical Psychology Training-Based Internship (240 hrs, 9.3/10) | Socially Souled | 2026 |
 | Certified Data Analyst (Term 1: Excel, SQL & Power BI) | AnalytixLabs | 2024 |
 | Digital Marketing Training | Internshala | 2019 |
+
+What I studied and built for each, with the certificates and both awards → [ameer29.github.io/certifications.html](https://ameer29.github.io/certifications.html)
