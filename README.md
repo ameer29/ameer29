@@ -97,12 +97,12 @@ First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
 ### Aug – Dec 2026 · 🇪🇸 ESADE Business School (Barcelona): CEMS exchange semester
 Courses include Global Strategy, Data Analytics for Global Management and **Creative Design Thinking**, plus Spanish for the CEMS language requirement.
 
-- **Mesa: cook together, eat wider** · *Creative Design Thinking · brief: "Youth, loneliness in the age of AI"* · group project
-  - **Insight:** students who have just moved to a new city are lonely. AI and apps make it easy to stay in, but connection comes from doing something together, face to face.
-  - **Concept:** Mesa matches newly arrived university students into **mixed-nationality groups of four** who cook one dish together, then bring it to a **shared weekly table**. There, each person names one thing they're grateful for and one thing they're finding hard. Technology organises the meeting; the meeting itself stays human.
-  - **Design process:** a context map canvas, user personas and user interviews, and team brainstorming following the course's design-thinking method.
-  - **My role:** I took part in the brainstorming and design process with the team. When we split the work, I owned **the website**: I built it from version 0 to a **live version 1** on **Vercel**, connected to **Supabase** to collect real data from ESADE students.
-  - **The app:** a 6-step onboarding (university email, home country, what brings you here, cooking level), matching into a table of four passports, a dish picked from each country, weekly plans (shopping list, swappable roles, recipe video), "the round", a group thread that stays open between weeks, XP and badges, feedback forms, and a private admin dashboard that exports the data to Excel or CSV.
+- **Mesa: a weekly table for students who just moved** · *Creative Design Thinking: CEMS × SoReDI Design Sprint, 15–18 Sep 2026 · challenge: "youth loneliness in the age of AI"* · Team 3: Linus, Rita, João, Paul, Niki, Ameer
+  - **Problem:** 25.5% of 16–29-year-olds in Spain feel lonely (ONCE, 2024), and it peaks right after a move. Six interviews (I ran one) showed AI gives *"closure, not connection"*, and nobody called themselves lonely; they said "busy".
+  - **Concept:** six students cook a dish from home together, then four kitchens share one table every Wednesday, with "the round" (one thing you're grateful for, one thing that's hard) halfway through.
+  - **Tested and iterated:** 7 tests (6 students plus 1 AI walkthrough) using the Explorative Experimentation Cycle led to four changes: pay €5–8 upfront for commitment, show verified guests first, arrive through a university web link, and match on diet and budget. We kept the cooking and the round untouched.
+  - **Ask:** a four-table pilot at ESADE in week three; success = how many people book a second table.
+  - **My role:** design thinking with the team on our Miro board (context map through experiment plan). When we split the work, I owned **the website**, from the first clickable prototype to a **live version** on **Vercel** with **Supabase** collecting real data from ESADE students.
   - → [live app](https://mesa-boy5.vercel.app) · [case study](https://ameer29.github.io/mesa.html) · [repo](https://github.com/ameer29/mesa)
 
 ### 2027 · 🎯 Next
