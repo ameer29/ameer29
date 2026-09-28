@@ -89,7 +89,13 @@ First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
 - **Temu in Africa** (BMS5120 Innovation & Strategies for Emerging Markets): my section was the diagnosis of why a low-price, China-to-door model can't last in Africa (copyable value proposition, the wrong delivery system, regulatory exposure), feeding the team's "Africa OS" recommendation. → [repo](https://github.com/ameer29/temu-africa-strategy)
 - **Adidas sales analytics** (BMS5504 Marketing Analytics): I built the **Tableau dashboards** and led the analysis (region vs margin, products, retailers, channels, seasonality), and designed an **A/B testing plan** to validate the strategy before scaling. → [repo](https://github.com/ameer29/adidas-sales-analytics)
 - **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business. → [try the Gem](https://gemini.google.com/gem/1l8_N3Y0SHgqTZ3ZpKxvScDwe0r7myGmn?usp=sharing)
-- 🤝 **Volunteer Mentor, PEER Community Programme** (MENDAKI / Yaseen MENDAKI Initiative, Singapore): mentoring secondary school students through skills-building sessions on personal development and goal-setting.
+- 🤝 **Volunteer Mentor, [PEER Community Programme](https://www.mendakiclub.org.sg/peer-community-programme)** (MENDAKI Club · Yayasan MENDAKI, Singapore; also my MSc Psychology field placement)
+  - PEER (Positive Engagement through Experiential Relationships) is a 6-month, 12-session programme. It pairs **90+ volunteer mentors and organisers** with **60+ mentees aged 11–16**, with 2 mentors for every 3 mentees, and is built on the **5Cs of Positive Youth Development** (Competence, Confidence, Connection, Character, Contribution).
+  - **My sessions** (after mentor onboarding and mock rounds on 7 Feb 2026):
+    - Orientation with reflection journals.
+    - A **Ramadan food-and-rations outreach** to families in need.
+    - A two-session theme event, *Building Trust and Teamwork Through Creative Expression* (drawing icebreakers, cooperative board games and shared squad art).
+  - **What changed:** my mentees went from guarded in Session 1 to starting conversations themselves by Session 4. I applied rapport-building, developmental and group-dynamics concepts from clinical psychology.
 
 ### Jul – Aug 2026 · 🩺 Clinical Psychology Training-Based Internship, Socially Souled
 **240 hours · graded 9.3/10** (93/100 across attendance, participation, class activities, a viva and assignments).
