@@ -65,7 +65,7 @@ Daily work with data at ITILITE showed me how much decisions depend on it. With 
 
 ### 2024 – 2026 · 🧠 MSc Psychology, Jain University (online, alongside full-time work)
 Focus on motivation, performance and human behaviour, which shapes how I think about users, customers and teams.
-- **Jul – Aug 2026 · Clinical Psychology Training-Based Internship, Socially Souled**: 240 hours, **graded 9.3/10**. Covered clinical assessment (Mental Status Examination), case-history intake, risk assessment, psychopathology (mood, anxiety, OCD and related disorders), therapeutic approaches (CBT, DBT, humanistic, behavioural) and clinical ethics, through case-study analysis, supervised exercises and a viva.
+- Includes a clinical psychology training internship (Jul – Aug 2026; see below).
 
 ### Jul 2025 – Jan 2026 · 🤖 Product Management with Generative & Agentic AI, BITS School of Management (BITSoM)
 Six modules, 45 sessions → [module-by-module page](https://ameer29.github.io/bitsom-product-management.html)
@@ -78,18 +78,34 @@ Six modules, 45 sessions → [module-by-module page](https://ameer29.github.io/b
 
 **Capstone · Swasthya Sahayak** (team of 4, Aug 2025 – Feb 2026): a voice-first, multilingual health assistant on WhatsApp for underserved communities in India, with two clickable prototypes. **My part:** the AI design (a 5-step agent flow with firm boundaries: no diagnosis, no prescriptions, always a path to a human), the success-metrics framework, the WhatsApp-first idea and the executive summary. I presented the closing section; the panel singled out the problem approach and the WhatsApp idea. → [repo](https://github.com/ameer29/swasthya-sahayak) · [try it](https://project-swasthya-sahayak.lovable.app/)
 
-### Jan 2026 – Jul 2027 · 🎓 NUS Business School: MSc in Management + CEMS Master in International Management
-Singapore, with exchange semesters at **ESADE (Barcelona)** and **Aalto (Helsinki)**.
+### Jan – May 2026 · 🎓 NUS Business School (Singapore): MSc in Management + CEMS Master in International Management
+First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
 - **Zalora pricing** (BMS5503 Pricing Analytics, **grade 4/5**): a regression demand model on 2,633 product-week records. Holding the price at **S$49.90** instead of marking down still clears stock and earns about **77% more profit**. → [repo with Python script](https://github.com/ameer29/zalora-pricing-analytics)
 - **Temu in Africa** (BMS5120 Innovation & Strategies for Emerging Markets): my section was the diagnosis of why a low-price, China-to-door model can't last in Africa (copyable value proposition, the wrong delivery system, regulatory exposure), feeding the team's "Africa OS" recommendation. → [repo](https://github.com/ameer29/temu-africa-strategy)
 - **Adidas sales analytics** (BMS5504 Marketing Analytics): I built the **Tableau dashboards** and led the analysis (region vs margin, products, retailers, channels, seasonality), and designed an **A/B testing plan** to validate the strategy before scaling. → [repo](https://github.com/ameer29/adidas-sales-analytics)
 - **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business.
+- 🤝 **Volunteer Mentor, PEER Community Programme** (MENDAKI / Yaseen MENDAKI Initiative, Singapore): mentoring secondary school students through skills-building sessions on personal development and goal-setting.
 
-### 2026 · 🤝 Community
-- **Volunteer Mentor, PEER Community Programme** (MENDAKI / Yaseen MENDAKI Initiative, Singapore): mentoring secondary school students through skills-building sessions on personal development and goal-setting.
+### Jul – Aug 2026 · 🩺 Clinical Psychology Training-Based Internship, Socially Souled
+**240 hours · graded 9.3/10** (93/100 across attendance, participation, class activities, a viva and assignments).
+- **Assessment:** the Mental Status Examination (appearance, speech, mood and affect, thought process and content, perception, cognition, insight and judgement), case-history intake, and suicide risk assessment.
+- **Psychopathology:** major depressive disorder, bipolar I and II, cyclothymia, generalised anxiety, panic, social anxiety and OCD, including how to tell similar presentations apart. Also the biopsychosocial model.
+- **Therapeutic approaches:** psychoanalysis, behaviour therapy, CBT, humanistic therapy, biological approaches and DBT. Plus the history of clinical psychology, research methods, and clinical ethics (informed consent, confidentiality).
+- **Format:** expert-led training, case-study analysis, guided assignments, live projects, group discussions and observation-based learning.
+
+### Aug – Dec 2026 · 🇪🇸 ESADE Business School (Barcelona): CEMS exchange semester
+Courses include Global Strategy, Data Analytics for Global Management and **Creative Design Thinking**, plus Spanish for the CEMS language requirement.
+
+- **Mesa: cook together, eat wider** · *Creative Design Thinking · brief: "Youth, loneliness in the age of AI"* · group project
+  - **Insight:** students who have just moved to a new city are lonely. AI and apps make it easy to stay in, but connection comes from doing something together, face to face.
+  - **Concept:** Mesa matches newly arrived university students into **mixed-nationality groups of four** who cook one dish together, then bring it to a **shared weekly table**. There, each person names one thing they're grateful for and one thing they're finding hard. Technology organises the meeting; the meeting itself stays human.
+  - **Design process:** a context map canvas, user personas and user interviews, then a working prototype.
+  - **Prototype:** a web app with a 6-step onboarding (university email, home country, what brings you here, cooking level), matching into a table of four passports, a dish picked from each country, weekly plans (shopping list, swappable roles, recipe video), "the round", a group thread that stays open between weeks, XP and badges, feedback forms, and a private admin dashboard (Supabase) that exports the data to Excel or CSV.
+  - → [repo](https://github.com/ameer29/mesa)
 
 ### 2027 · 🎯 Next
-Graduating from NUS–CEMS, and looking for roles in **product management, data and analytics, and strategy consulting**.
+- **From Jan 2027:** CEMS semester at **Aalto University (Helsinki)**.
+- **Jul 2027:** graduating from NUS–CEMS, and looking for roles in **product management, data and analytics, and strategy consulting**.
 
 ---
 
@@ -112,6 +128,6 @@ Graduating from NUS–CEMS, and looking for roles in **product management, data 
 | Certification | Issuer | Year |
 |---|---|---|
 | Product Management with Generative & Agentic AI | BITS School of Management | 2026 |
-| Clinical Psychology Training-Based Internship (9.3/10) | Socially Souled | 2026 |
+| Clinical Psychology Training-Based Internship (240 hrs, 9.3/10) | Socially Souled | 2026 |
 | Certified Data Analyst (Term 1: Excel, SQL & Power BI) | AnalytixLabs | 2024 |
 | Digital Marketing Training | Internshala | 2019 |
