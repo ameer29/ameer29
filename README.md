@@ -37,11 +37,13 @@ I'm a **CEMS Master in International Management** candidate at **NUS Business Sc
 | Reconfirmation · Financial Oversight | Mar 2022 – May 2022 |
 | **Workforce Management Analyst** | Jun 2022 – Jan 2023 |
 
-- Built **real-time dashboards tracking 5+ operational KPIs** for senior management.
-- Found and fixed recurring workflow bottlenecks, reducing service delays.
-- Worked with product and engineering to resolve **15+ UI/UX issues** on the platform.
-- Built cost, delivery and service-impact analyses across **3 core operational functions** to inform senior stakeholders.
-- Handled customer queries end to end, then financial process accuracy and compliance, before moving into analytics.
+- 🏆 **ITILITE Value Champion** award.
+- **Workforce Management Analyst:**
+  - Built the operations dashboards used directly by the **Head of Operations and the founding team** for staffing and service decisions. They tracked 5+ KPIs, including response time, SLA adherence, backlog, and staffing against query volume.
+  - Ran cost, delivery and service-impact analyses across **3 core operational functions**, and fixed recurring workflow bottlenecks.
+- **Product feedback:** flagged **15+ UI/UX issues**. One we pushed for became **Quick Apply**, which pulled employee details automatically and issued the travel voucher in one step.
+- **Reconfirmation · Financial Oversight:** checked bookings against invoices, and handled refunds and reconciliations.
+- **Customer Relations Executive:** handled **30+ calls a day**, plus chat, email and escalations, on bookings, cancellations, refunds and travel policy.
 
 ### 2023 · 🔁 Career switch: full-time data analytics
 Daily work with data at ITILITE showed me how much decisions depend on it. With no technical background, I couldn't learn it properly alongside a job, so in **January 2023 I resigned to study full-time** and rebuild from the basics.
