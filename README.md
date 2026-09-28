@@ -45,7 +45,8 @@ I'm a **CEMS Master in International Management** candidate at **NUS Business Sc
 
 ### 2023 · 🔁 Career switch: full-time data analytics
 Daily work with data at ITILITE showed me how much decisions depend on it. With no technical background, I couldn't learn it properly alongside a job, so in **January 2023 I resigned to study full-time** and rebuild from the basics.
-- **AnalytixLabs** (Apr – Dec 2023): **Certified Data Analyst**, Term 1: Excel, SQL and Power BI (certificate issued Oct 2024). Also studied Python for data analysis and data visualisation.
+- **AnalytixLabs** (Apr – Dec 2023): **Certified Data Analyst**, Term 1: Excel, SQL and Power BI (certificate issued Oct 2024).
+- **Python track: 8 notebooks** in pandas, Seaborn and SciPy. They run from Python basics through retail, credit-card, insurance-claims (fraud flag and hypothesis tests), sales-visualisation and hypothesis-testing case studies to an **end-to-end e-commerce marketing capstone** (8-table merge, acquisition and retention, segmentation, payments, ratings, delivery). Each comes with a candid "what I'd fix now" review → [analytixlabs-python-case-studies](https://github.com/ameer29/analytixlabs-python-case-studies)
 
 ### Jan 2024 – Dec 2025 · 📊 Forbes Advisor (Chennai)
 *A global personal-finance advice platform.*
