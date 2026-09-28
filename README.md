@@ -81,7 +81,7 @@ Six modules, 45 sessions → [module-by-module page](https://ameer29.github.io/b
 5. **Go-To-Market:** marketing strategy, branding, 7P, digital marketing, pricing, sales and distribution, customer service
 6. **Data, Metrics & Decision Making:** market research, regression, product metrics, digital metrics, CLV, A/B testing
 
-**Capstone · Swasthya Sahayak** (team of 4, Aug 2025 – Feb 2026): a voice-first, multilingual health assistant on WhatsApp for underserved communities in India, with two clickable prototypes. **My part:** the AI design (a 5-step agent flow with firm boundaries: no diagnosis, no prescriptions, always a path to a human), the success-metrics framework, the WhatsApp-first idea and the executive summary. I presented the closing section; the panel singled out the problem approach and the WhatsApp idea. → [repo](https://github.com/ameer29/swasthya-sahayak) · [try it](https://project-swasthya-sahayak.lovable.app/)
+**Capstone · Swasthya Sahayak** (team of 4, Jul 2025 – Jan 2026): a voice-first, multilingual health assistant on WhatsApp for underserved communities in India, with two clickable prototypes. **My part:** the AI design (a 5-step agent flow with firm boundaries: no diagnosis, no prescriptions, always a path to a human), the success-metrics framework, the WhatsApp-first idea and the executive summary. I presented the closing section; the panel singled out the problem approach and the WhatsApp idea. → [repo](https://github.com/ameer29/swasthya-sahayak) · [try it](https://project-swasthya-sahayak.lovable.app/)
 
 ### Jan – May 2026 · 🎓 NUS Business School (Singapore): MSc in Management + CEMS Master in International Management
 First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
