@@ -83,7 +83,7 @@ First semester of the NUS–CEMS double programme (Jan 2026 – Jul 2027).
 - **Zalora pricing** (BMS5503 Pricing Analytics, **grade 4/5**): a regression demand model on 2,633 product-week records. Holding the price at **S$49.90** instead of marking down still clears stock and earns about **77% more profit**. → [repo with Python script](https://github.com/ameer29/zalora-pricing-analytics)
 - **Temu in Africa** (BMS5120 Innovation & Strategies for Emerging Markets): my section was the diagnosis of why a low-price, China-to-door model can't last in Africa (copyable value proposition, the wrong delivery system, regulatory exposure), feeding the team's "Africa OS" recommendation. → [repo](https://github.com/ameer29/temu-africa-strategy)
 - **Adidas sales analytics** (BMS5504 Marketing Analytics): I built the **Tableau dashboards** and led the analysis (region vs margin, products, retailers, channels, seasonality), and designed an **A/B testing plan** to validate the strategy before scaling. → [repo](https://github.com/ameer29/adidas-sales-analytics)
-- **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business.
+- **GEM Bot** (Contemporary Topics in Markets & Management): designed and built an AI chatbot with Google Gemini to explore AI applications in business. → [try the Gem](https://gemini.google.com/gem/1l8_N3Y0SHgqTZ3ZpKxvScDwe0r7myGmn?usp=sharing)
 - 🤝 **Volunteer Mentor, PEER Community Programme** (MENDAKI / Yaseen MENDAKI Initiative, Singapore): mentoring secondary school students through skills-building sessions on personal development and goal-setting.
 
 ### Jul – Aug 2026 · 🩺 Clinical Psychology Training-Based Internship, Socially Souled
@@ -99,9 +99,10 @@ Courses include Global Strategy, Data Analytics for Global Management and **Crea
 - **Mesa: cook together, eat wider** · *Creative Design Thinking · brief: "Youth, loneliness in the age of AI"* · group project
   - **Insight:** students who have just moved to a new city are lonely. AI and apps make it easy to stay in, but connection comes from doing something together, face to face.
   - **Concept:** Mesa matches newly arrived university students into **mixed-nationality groups of four** who cook one dish together, then bring it to a **shared weekly table**. There, each person names one thing they're grateful for and one thing they're finding hard. Technology organises the meeting; the meeting itself stays human.
-  - **Design process:** a context map canvas, user personas and user interviews, then a working prototype.
-  - **Prototype:** a web app with a 6-step onboarding (university email, home country, what brings you here, cooking level), matching into a table of four passports, a dish picked from each country, weekly plans (shopping list, swappable roles, recipe video), "the round", a group thread that stays open between weeks, XP and badges, feedback forms, and a private admin dashboard (Supabase) that exports the data to Excel or CSV.
-  - → [repo](https://github.com/ameer29/mesa)
+  - **Design process:** a context map canvas, user personas and user interviews, and team brainstorming following the course's design-thinking method.
+  - **My role:** I took part in the brainstorming and design process with the team. When we split the work, I owned **the website**: I built it from version 0 to a **live version 1** on **Vercel**, connected to **Supabase** to collect real data from ESADE students.
+  - **The app:** a 6-step onboarding (university email, home country, what brings you here, cooking level), matching into a table of four passports, a dish picked from each country, weekly plans (shopping list, swappable roles, recipe video), "the round", a group thread that stays open between weeks, XP and badges, feedback forms, and a private admin dashboard that exports the data to Excel or CSV.
+  - → [live app](https://mesa-boy5.vercel.app) · [case study](https://ameer29.github.io/mesa.html) · [repo](https://github.com/ameer29/mesa)
 
 ### 2027 · 🎯 Next
 - **From Jan 2027:** CEMS semester at **Aalto University (Helsinki)**.
